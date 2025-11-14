@@ -1,0 +1,19 @@
+# Virtual environments
+TrabalhoPL/
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment config
+pyvenv.cfg
+
+# IDEs
+.vscode/
+.idea/
